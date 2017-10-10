@@ -1,0 +1,23 @@
+#body_left{
+    margin-left: 6rem;
+    float: left;
+}
+#img_logo{
+    height:1.8rem;
+    margin-top: 1rem;
+}
+.left_type{
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-bottom:0.5rem;
+    font-size:1.2rem;
+    margin-top: 0.2rem;
+    border-radius: 0.4rem;
+    /*禁止复制*/
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
